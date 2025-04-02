@@ -1,0 +1,1 @@
+This project built with just HTML, it also contains my picture. It has a navigation bar, a section containing my likes and hobbies. This file has a footer which contains my contact address. This file can be unziped and open in chrome browser
